@@ -46,8 +46,8 @@ This analysis directly addresses four (4) critical business problems through dat
 
 ## Database: SQL (for data cleaning, transformation, and aggregation)
 
-**Direct Link to SQL Code:** [View All Instacart SQL Queries Here](Instacart_SQL_Queries.sql)
-
 ## Visualization: Power BI (for interactive dashboard creation)
 
 ## Documentation: GitHub (for project management and portfolio presentation)
+
+
