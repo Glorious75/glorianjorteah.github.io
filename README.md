@@ -42,13 +42,21 @@ This analysis directly addresses four (4) critical business problems through dat
 
   Requirement: Analyze historical sales trends to predict future demand spikes and seasonal dips.
 
-# Technical Stack
+# Technical Stack (The Tools Checklist)
 
 ## Database: SQL (for data cleaning, transformation, and aggregation)
 
-## Visualization: Power BI (for interactive dashboard creation)
+## Visualization:Power BI (for interactive dashboard creation)
 
 ## Documentation: GitHub (for project management and portfolio presentation)
 
+# Dashboard Visualizations
+
 **Direct Link to SQL Code:** [View All Instacart SQL Queries Here](Instacart_SQL_Queries.sql)
+
+![Instacart_Dashboard_Preview jpeg](https://github.com/user-attachments/assets/57cc8031-3543-478f-af9a-f0668bfd562a)
+
+![Instacart_Dashboard_2](https://github.com/user-attachments/assets/41c618ec-f31b-4733-a475-40ab2a8a7ae3)
+
+
 
