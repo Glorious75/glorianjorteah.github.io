@@ -16,7 +16,7 @@ The primary dashboard tracks the following core KPIs to monitor business health:
 -  Average Order Value (AOV): Revenue per order, indicating customer spending behavior.
 
 # Business Objectives & Strategic Problems
-This analysis directly addresses three critical business problems through data interrogation:
+This analysis directly addresses four (4) critical business problems through data interrogation:
 
 - Profit Leakage in Aisles (Optimizing Margins):
 
@@ -41,3 +41,11 @@ This analysis directly addresses three critical business problems through data i
   Goal: Plan inventory levels and align marketing spend ahead of predicted demand spikes, minimizing overstocking risks.
 
   Requirement: Analyze historical sales trends to predict future demand spikes and seasonal dips.
+
+# Technical Stack
+
+## Database: SQL (for data cleaning, transformation, and aggregation)
+
+## Visualization: Power BI (for interactive dashboard creation)
+
+## Documentation: GitHub (for project management and portfolio presentation)
